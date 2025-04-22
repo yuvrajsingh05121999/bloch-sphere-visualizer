@@ -12,9 +12,6 @@ A Streamlit-based interactive tool for visualizing single-qubit quantum states o
   - **Gate Sequence Mode**: Build and simulate a series of gates step-by-step.
 - View and compare initial and final quantum state data.
 
-## 📸 Screenshots
-
-*Coming soon — add screenshots of your app here!*
 
 ## 📦 Requirements
 
@@ -37,9 +34,6 @@ streamlit run app.py
 - Density matrices
 - Quantum gates and rotations
 
-## 📄 License
-
-MIT License. Feel free to modify and share!
 
 ## ✨ Made With
 
