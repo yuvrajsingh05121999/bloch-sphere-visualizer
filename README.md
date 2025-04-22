@@ -30,10 +30,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📤 Deploy on Streamlit Cloud
-
-You can deploy this app for free using [Streamlit Cloud](https://streamlit.io/cloud). See the deployment section below for step-by-step instructions.
-
 ## 🧠 Quantum Concepts Covered
 
 - Qubit states and statevectors
